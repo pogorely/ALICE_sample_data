@@ -1,5 +1,5 @@
 # ALICE sample data
-Here we provide references to datasets used for analysis with ALICE algorithm in paper [add link to biorxiv].
+Here we provide references to datasets used for analysis with ALICE algorithm in paper: [preprint](https://www.biorxiv.org/content/early/2018/07/23/375162).
 
 Thome et al 2016[(paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5367636/): [Data](http://adaptivebiotech.com/pub/farber-2016-sciimmunol)
 
