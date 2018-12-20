@@ -11,4 +11,4 @@ Emerson et al 2014[(paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4218856
 
 Relevant data from [Pogorelyy et al](https://www.biorxiv.org/content/early/2018/04/13/300343) and [Komech et al](https://www.ncbi.nlm.nih.gov/pubmed/29481668) is available in this repository in tab-delimited format.
 
-ALICE hits folder contains files with all hits identified by the algorithm in respective datasets.  
+ALICE_hits folder contains files with all hits identified by the algorithm in respective datasets.  
